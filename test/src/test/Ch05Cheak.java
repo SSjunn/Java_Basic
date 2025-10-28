@@ -33,6 +33,7 @@ public class Ch05Cheak {
 			for(int j = 0; j < array1[i].length; j++) {
 				total += array1[i][j];
 				count++; // 요소 개수를 정확하게 1씩 증가
+				
 			}
 		}
         
