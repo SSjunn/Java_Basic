@@ -116,5 +116,7 @@ public class Ch05Cheak {
 		}
 		
 		System.out.println("프로그램 종료");
+		
+		
 	} 
 }
