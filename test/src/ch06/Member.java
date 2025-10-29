@@ -18,6 +18,15 @@ public class Member {
 	Member() {
 
 	}
+	
+	// int x 가 빠지면 위에 같은 메서드를 가지고 있어서 error 가 나는데 int x 가 붙으면서 다른거로 바뀐거다.
+	Member(int x){
+		
+	}
+	// int y 만 넣으면 error 가 나는데 이유는 앞에 정수 int 를 기준으로 체크를 한다. type 의 순서 추가 이런거에 따라 error 가 나지 않는다. (이게 오버로딩(overloading))
+	Member(int y, String z){
+		
+	}
 
 	// 메서드
 	int add(int x, int y) {
