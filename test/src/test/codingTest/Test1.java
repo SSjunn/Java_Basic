@@ -14,9 +14,10 @@ public class Test1 {
 class Solution {
 	public int solution(int m, int[] ledger) {
 		int account = 0;
+		int limit = -m;
 		for (int i = 0; i < ledger.length; i++) {
 			int temp = account + ledger[i]; // 입금/출금액
-			if (m <= temp) { // 마이너스통장 한도 이상이면
+			if (temp >= limit) { // 마이너스통장 한도 이상이면
 				account = temp; // 잔고증명
 			}
 		}
