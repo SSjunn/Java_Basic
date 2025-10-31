@@ -14,7 +14,7 @@ public abstract class Phone {
 	
 //	void call() {
 //		
-//		/*뭐라고 쓸지 몰라서 남겨 둠*/
+//	
 //	}
 	
 	// 메서드 선언
