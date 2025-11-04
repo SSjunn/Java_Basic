@@ -1,0 +1,9 @@
+module my_module_a {
+	
+	// exports : 모듈이 가지고 있는 패키지를 외부에서 사용할 수 있도록 노출 시키는 역할
+	exports pack1;
+	// exports pack2;
+	// exports pack2; 를 하지 않았다면 모듈 내부 전용 (은닉)
+	
+	// requires 로 의존 선언 가능
+}

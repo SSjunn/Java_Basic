@@ -1,0 +1,29 @@
+package app;
+
+import pack1.A;
+//import pack2.B;
+import pack3.C;
+import pack4.D;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		A a= new A();
+		a.method();
+		// 외부에서 접근은 못하지만 같은 블록 안에 있으면 사용이 가능하다.
+		
+		
+//		B b= new B();
+//		b.method();
+		
+		C c= new C();
+		c.method();
+		
+		D d= new D();
+		d.method();
+		
+
+	}
+
+}
