@@ -25,7 +25,7 @@ public class GenericEx {
 		}
 		List<Integer> list2 = new ArrayList<>();
 		list2.add(3);
-		System.out.println(list2.get(0).longValue());
+		System.out.println(((Integer)list2.get(0)).longValue());
 
 	}
 
