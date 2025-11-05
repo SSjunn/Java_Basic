@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch06.sec15.Singleton"/>
-    <fullyQualifiedTypeName name="javax.security.sasl.SaslException"/>
-    <fullyQualifiedTypeName name="javax.security.auth.login.AccountException"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="javax.imageio.plugins.bmp.BMPImageWriteParam"/>
-    <fullyQualifiedTypeName name="ch07.sec07.exam02.Parent"/>
-    <fullyQualifiedTypeName name="ch07.sec07.exam02.Child"/>
-    <fullyQualifiedTypeName name="ch07.sec08.exam01.HankookTire"/>
-    <fullyQualifiedTypeName name="ch07.sec08.exam01.KumhoTire"/>
-    <fullyQualifiedTypeName name="ch07.sec08.exam02.Bus"/>
-    <fullyQualifiedTypeName name="ch07.sec08.exam02.Taxi"/>
-    <fullyQualifiedTypeName name="ch07.sec02.SmartPhone"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="ch08.sec02.RemoteControl"/>
     <fullyQualifiedTypeName name="ch08.sec02.Television"/>
     <fullyQualifiedTypeName name="ch08.sec08.SmartTelevision"/>
     <fullyQualifiedTypeName name="ch08.sec08.Searchable"/>
     <fullyQualifiedTypeName name="ch08.sec08.RemoteControl"/>
     <fullyQualifiedTypeName name="ch08.sec10.exam02.Vehicle"/>
     <fullyQualifiedTypeName name="ch07.sec10.exam01.PublicPhone"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="pack1.A"/>
     <fullyQualifiedTypeName name="pack4.D"/>
     <fullyQualifiedTypeName name="pack2.B"/>
@@ -37,14 +22,10 @@
     <fullyQualifiedTypeName name="java.awt.image.DataBufferByte"/>
     <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="ch12.sec03.exam05.Member"/>
     <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.Getter"/>
-    <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="org.xml.sax.helpers.AttributeListImpl"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.awt.List"/>
@@ -60,4 +41,23 @@
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
     <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="ch12.sec12.PrintAnnotation"/>
+    <fullyQualifiedTypeName name="lombok.val"/>
+    <fullyQualifiedTypeName name="lombok.Value"/>
+    <fullyQualifiedTypeName name="ch12.sec03.exam05.Member"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ch13.sec02.exam02.Rentable"/>
+    <fullyQualifiedTypeName name="ch13.sec02.exam02.HomeAgency"/>
+    <fullyQualifiedTypeName name="ch13.sec02.exam02.Home"/>
+    <fullyQualifiedTypeName name="ch13.sec02.exam02.CarAgency"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.codingTest.Solution"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
