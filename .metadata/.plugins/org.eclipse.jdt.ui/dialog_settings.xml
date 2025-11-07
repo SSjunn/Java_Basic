@@ -195,4 +195,13 @@
 		<item key="DIALOG_HEIGHT" value="844"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="NewAnnotationCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1059"/>
+		<item key="DIALOG_Y_ORIGIN" value="225"/>
+		<item key="DIALOG_WIDTH" value="784"/>
+		<item key="DIALOG_HEIGHT" value="849"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
 </section>

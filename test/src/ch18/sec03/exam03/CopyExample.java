@@ -1,0 +1,32 @@
+package ch18.sec03.exam03;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+
+public class CopyExample {
+	public static void main(String[] args) throws Exception {
+		String originalFileName = "E:/Temp/test1.png";
+		String targetFileName = "E:/Temp/test2.png";
+		
+		InputStream is = new FileInputStream(originalFileName);
+		OutputStream os = new FileOutputStream(targetFileName);
+		
+		byte[] data = new byte[1024];
+		while(true) {
+			int num = is.read(data);
+			if(num == -1) break;
+			os.write(data,0,num);
+		}
+		os.flush();
+		os.close();
+		os.close();
+		
+		System.out.println("복사 됌");
+				
+		
+	}
+
+
+}

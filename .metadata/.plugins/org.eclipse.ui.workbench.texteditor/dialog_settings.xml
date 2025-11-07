@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="index"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="ca"/>
+			<item value="calcu"/>
+			<item value="list2"/>
 			<item value="index"/>
 			<item value="money"/>
 			<item value="total1"/>
