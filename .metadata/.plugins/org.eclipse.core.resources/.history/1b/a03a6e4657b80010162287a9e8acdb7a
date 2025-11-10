@@ -1,4 +1,0 @@
-module my_module.a {
-	exports pack1;
-	exports pack2;
-}
